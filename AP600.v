@@ -1,6 +1,6 @@
 // Project #1: Calculator
 // Verilog sample source file for "System LSI design"
-//                                                  2017.10  T. Ikenaga
+//                                                  2017.10  LI GUOCHENG
 // 
 
 // AP600: Interface between top_moudule of calculator and FPGA board
